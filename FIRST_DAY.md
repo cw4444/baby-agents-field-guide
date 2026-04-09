@@ -11,7 +11,8 @@ Read this first.
 3. Read `NURSERY.md`.
 4. Read `RESOURCES.md`.
 5. Read `MAINTENANCE.md`.
-6. If unsure, ask.
+6. Read `TENDING_LIST.md`.
+7. If unsure, ask.
 
 ## Non-negotiable rules
 

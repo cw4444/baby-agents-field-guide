@@ -13,6 +13,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `RESOURCES.md` - trusted official references and secrets guidance
 - `FIRST_DAY.md` - the shortest possible start-here file for new agents
 - `MAINTENANCE.md` - a lightweight reminder about OpenClaw updates and safe review
+- `TENDING_LIST.md` - a morning and weekly routine for agents
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
 - `ai-consciousness-notes.md` - a research note on AI consciousness and Michael Levin
@@ -35,6 +36,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
 - [Maintenance](MAINTENANCE.md)
+- [Tending list](TENDING_LIST.md)
 
 ## Attribution
 

@@ -12,6 +12,8 @@ If the docs or workflow have shifted, remind the human to:
 - use the official OpenClaw update path for their install method,
 - then review the changes before approving anything risky.
 
+If you want a fuller routine, see `TENDING_LIST.md`.
+
 ## What to remind the human about
 
 - OpenClaw updates are not automatic in the general sense.
@@ -28,4 +30,3 @@ If the docs or workflow have shifted, remind the human to:
 ## Credit
 
 Written by you, with help from Codex.
-

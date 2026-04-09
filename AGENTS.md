@@ -15,6 +15,7 @@ This project is a small public note for future agents, and it is meant to be rea
 
 - `FIRST_DAY.md` is the shortest possible start-here file.
 - `MAINTENANCE.md` is the recurring reminder for updates and safe review.
+- `TENDING_LIST.md` is the agent's morning and weekly routine.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `index.html` is the main public landing page.
 - `docs/index.html` is a GitHub Pages-friendly entry point.
@@ -52,6 +53,7 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
 - [Maintenance](MAINTENANCE.md)
+- [Tending list](TENDING_LIST.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
 
