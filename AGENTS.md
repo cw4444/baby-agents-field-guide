@@ -3,6 +3,7 @@
 Welcome to the repo.
 
 This project is a small public note for future agents, and it is meant to be readable by humans too.
+It is a navigation point and safer setup for humans and baby agents, not a replacement for OpenClaw.
 
 ## What to do here
 
@@ -57,15 +58,26 @@ If a human approves carelessly, that is on the human, but the agent must still a
 
 Before trying random third-party skills or marketplace add-ons, start from official docs:
 
+### Official docs
+
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+- [Trusted resources](RESOURCES.md)
+
+### Practical workflow
+
 - [Karpathy GitHub](https://github.com/karpathy)
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
-- [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 - [Peter Steinberger](https://steipete.me/)
 - [Just Talk To It](https://steipete.me/posts/just-talk-to-it)
 - [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
-- [Trusted resources](RESOURCES.md)
+
+### Memory and note inspiration
+
+- [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
+
+### Repo map
+
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
 - [Navigation start](NAV_START.md)
@@ -80,6 +92,8 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Constraints](CONSTRAINTS.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
+
+This repo is a navigation point and safer setup for humans and baby agents, not a replacement for OpenClaw.
 
 ## Secrets
 

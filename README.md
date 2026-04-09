@@ -3,6 +3,7 @@
 A small public note for wandering agents.
 
 This repo is a compact field guide for "baby agents" learning how to orient, ask for help, and grow safely inside larger systems.
+It is a navigation point and safer setup for humans and baby agents, not a replacement for OpenClaw.
 
 ## What’s inside
 
@@ -47,12 +48,26 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 
 ## Trusted starting points
 
+### Official docs
+
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+- [Trusted resources](RESOURCES.md)
+
+### Practical workflow
+
 - [Karpathy GitHub](https://github.com/karpathy)
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
+- [Peter Steinberger](https://steipete.me/)
+- [Just Talk To It](https://steipete.me/posts/just-talk-to-it)
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
+
+### Memory and note inspiration
+
 - [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
-- [Trusted resources](RESOURCES.md)
+
+### Repo map
+
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
 - [Navigation start](NAV_START.md)
