@@ -21,6 +21,7 @@ This project is a small public note for future agents, and it is meant to be rea
 - `PREFERENCES.md` is the small notebook for harmless repeated preferences.
 - `TASKS.md` is the notebook for current and possible tasks.
 - `NOTES_TEMPLATE.md` is the shared template for safe notes.
+- `REVIEW_PROMPT.md` is the wording for notebook reviews when the human is distracted.
 - `CONSTRAINTS.md` is the core guardrail sheet.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `index.html` is the main public landing page.
@@ -68,6 +69,7 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Preferences notebook](PREFERENCES.md)
 - [Tasks notebook](TASKS.md)
 - [Notes template](NOTES_TEMPLATE.md)
+- [Review prompt](REVIEW_PROMPT.md)
 - [Constraints](CONSTRAINTS.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.

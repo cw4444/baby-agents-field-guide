@@ -65,6 +65,8 @@ Use the same review rhythm as `TASKS.md`:
 - review old entries periodically
 - prune only with human confirmation
 
+For wording, use `REVIEW_PROMPT.md` so the review works even when the human is distracted.
+
 
 ## Credit
 

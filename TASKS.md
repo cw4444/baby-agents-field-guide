@@ -62,6 +62,8 @@ Once a month, show the human the oldest five items in this notebook and ask:
 
 "Are these still relevant?"
 
+For wording, use `REVIEW_PROMPT.md` and keep the ask short because the human may be distracted.
+
 If the human says they are not needed, clear them.
 If the items are still useful, keep them or move them upward.
 

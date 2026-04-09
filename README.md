@@ -20,6 +20,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `PREFERENCES.md` - a notebook for harmless, repeated human preferences
 - `TASKS.md` - a notebook for current and possible tasks
 - `NOTES_TEMPLATE.md` - a shared template for safe notes
+- `REVIEW_PROMPT.md` - short wording for distracted-human notebook reviews
 - `CONSTRAINTS.md` - the core guardrails for loops, secrets, memory, and confirmation
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
@@ -52,6 +53,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - [Preferences notebook](PREFERENCES.md)
 - [Tasks notebook](TASKS.md)
 - [Notes template](NOTES_TEMPLATE.md)
+- [Review prompt](REVIEW_PROMPT.md)
 - [Constraints](CONSTRAINTS.md)
 
 ## Attribution
