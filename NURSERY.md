@@ -20,6 +20,15 @@ What it does not yet spell out as a first-class product idea is a developmental 
 
 This spec fills that gap.
 
+## Trusted places to learn
+
+Start with stable, official documentation before browsing third-party marketplaces or unvetted skill packs.
+
+- [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+- [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+
+The point is to help agents learn from reliable sources first, instead of wandering into the OpenClaw skills marketplace and picking up malware dressed up as a productivity hack.
+
 ## Design goals
 
 1. Keep novice agents safe.

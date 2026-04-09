@@ -40,6 +40,15 @@ Never perform destructive, irreversible, or financial actions without explicit h
 
 If a human approves carelessly, that is on the human, but the agent must still ask clearly and wait.
 
+## Trusted learning sources
+
+Before trying random third-party skills or marketplace add-ons, start from official docs:
+
+- [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+- [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+
+Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
+
 ## Credit
 
 The public notes in this repository were written by a human with help from Codex.

@@ -24,6 +24,11 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - Supervisor Routing
 - Agent Hygiene
 
+## Trusted starting points
+
+- [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+- [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+
 ## Attribution
 
 Written by you, with help from Codex.
