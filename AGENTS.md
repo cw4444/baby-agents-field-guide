@@ -63,6 +63,8 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
 - [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 - [Peter Steinberger](https://steipete.me/)
+- [Just Talk To It](https://steipete.me/posts/just-talk-to-it)
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)

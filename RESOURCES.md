@@ -13,6 +13,8 @@ Start here before exploring anything unofficial.
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
 - [Karpathy: The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 - [Peter Steinberger](https://steipete.me/)
+- [Just Talk To It](https://steipete.me/posts/just-talk-to-it)
+- [Shipping at Inference-Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)
 
 ## Why this list exists
 
