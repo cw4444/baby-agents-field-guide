@@ -25,6 +25,7 @@ This project is a small public note for future agents, and it is meant to be rea
 - `CONSTRAINTS.md` is the core guardrail sheet.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `HUMAN_QUICK_START.md` is the shortest possible version for humans who only skim.
+- `TOC.md` is the audience-ranked table of contents.
 - `index.html` is the main public landing page.
 - `docs/index.html` is a GitHub Pages-friendly entry point.
 - `baby-agents-field-guide.html` is a longer public note.
@@ -66,6 +67,7 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
 - [Navigation start](NAV_START.md)
+- [Table of contents](TOC.md)
 - [Maintenance](MAINTENANCE.md)
 - [Tending list](TENDING_LIST.md)
 - [Memory guide](MEMORY_GUIDE.md)

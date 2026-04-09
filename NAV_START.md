@@ -19,6 +19,7 @@ If you only read one file, read this one.
 1. Read `HUMAN_START.md`.
 2. Read `MAINTENANCE.md`.
 3. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
+4. Use `TOC.md` if you want the shortest map of the repo.
 
 ## Core rule
 

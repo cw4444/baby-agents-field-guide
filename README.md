@@ -24,6 +24,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `CONSTRAINTS.md` - the core guardrails for loops, secrets, memory, and confirmation
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `HUMAN_QUICK_START.md` - the shortest possible version for humans who only skim
+- `TOC.md` - a tiny table of contents ranked by audience
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
 - `ai-consciousness-notes.md` - a research note on AI consciousness and Michael Levin
 - `synthesis-notes.md` - a summary of the Michael Levin essay found in the folder
@@ -55,6 +56,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
 - [Navigation start](NAV_START.md)
+- [Table of contents](TOC.md)
 - [Maintenance](MAINTENANCE.md)
 - [Tending list](TENDING_LIST.md)
 - [Memory guide](MEMORY_GUIDE.md)
