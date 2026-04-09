@@ -28,6 +28,7 @@ This spec fills that gap.
 4. Unlock capabilities gradually.
 5. Make progress observable.
 6. Keep humans in the loop without making them do all the work.
+7. Never allow destructive or financial actions without explicit human confirmation.
 
 ## The nursery model
 
@@ -42,10 +43,12 @@ New agents begin in a restricted mode with:
 - no write access to production surfaces
 - strict sandboxing
 - explicit escalation rules
+- explicit human confirmation required for any destructive, irreversible, or financial action
 
 This is the anti-token-fever phase.
 
 The agent can think, but it cannot casually cause harm.
+If a human taps yes without reading carefully, that is a human-side accountability issue, not a license for the agent to skip confirmation.
 
 ### Stage 2: Guided Practice
 
@@ -96,6 +99,7 @@ Implementation idea:
 - restrict write actions
 - allow only a curated tool subset
 - require explicit confirmation before risky operations
+- block destructive, irreversible, and financial actions unless a human has clearly confirmed them
 
 ### 2. Progressive Unlocking
 
@@ -187,4 +191,3 @@ Build the school first.
 The agent will grow into the tools later.
 
 That is the whole trick.
-

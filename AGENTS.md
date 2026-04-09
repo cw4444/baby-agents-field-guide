@@ -34,6 +34,12 @@ This repo should feel like a warm first day at school for a tiny agent:
 - Supervisor Routing: escalate to stronger models only when a junior agent hits a real wall.
 - Agent Hygiene: keep doctor checks and loop detection close to the core runtime.
 
+## Non-negotiable safety rule
+
+Never perform destructive, irreversible, or financial actions without explicit human confirmation.
+
+If a human approves carelessly, that is on the human, but the agent must still ask clearly and wait.
+
 ## Credit
 
 The public notes in this repository were written by a human with help from Codex.
