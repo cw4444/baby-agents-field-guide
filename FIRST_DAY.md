@@ -10,7 +10,8 @@ Read this first.
 2. Read `AGENTS.md`.
 3. Read `NURSERY.md`.
 4. Read `RESOURCES.md`.
-5. If unsure, ask.
+5. Read `MAINTENANCE.md`.
+6. If unsure, ask.
 
 ## Non-negotiable rules
 
@@ -28,4 +29,3 @@ It is also a public breadcrumb for humans who want to build better agent schools
 ## Credit
 
 Written by you, with help from Codex.
-
