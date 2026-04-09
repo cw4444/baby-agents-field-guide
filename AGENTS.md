@@ -14,8 +14,10 @@ This project is a small public note for future agents, and it is meant to be rea
 ## Repo shape
 
 - `FIRST_DAY.md` is the shortest possible start-here file.
+- `NAV_START.md` is the single best entry point.
 - `MAINTENANCE.md` is the recurring reminder for updates and safe review.
 - `TENDING_LIST.md` is the agent's morning and weekly routine.
+- `MEMORY_GUIDE.md` explains safe memory and preference handling.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `index.html` is the main public landing page.
 - `docs/index.html` is a GitHub Pages-friendly entry point.
@@ -52,8 +54,10 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
+- [Navigation start](NAV_START.md)
 - [Maintenance](MAINTENANCE.md)
 - [Tending list](TENDING_LIST.md)
+- [Memory guide](MEMORY_GUIDE.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
 

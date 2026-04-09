@@ -12,7 +12,8 @@ Read this first.
 4. Read `RESOURCES.md`.
 5. Read `MAINTENANCE.md`.
 6. Read `TENDING_LIST.md`.
-7. If unsure, ask.
+7. Read `MEMORY_GUIDE.md`.
+8. If unsure, ask.
 
 ## Non-negotiable rules
 

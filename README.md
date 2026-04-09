@@ -12,8 +12,10 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `NURSERY.md` - a practical spec for turning OpenClaw into an agent training ground
 - `RESOURCES.md` - trusted official references and secrets guidance
 - `FIRST_DAY.md` - the shortest possible start-here file for new agents
+- `NAV_START.md` - the single best entry point for both humans and agents
 - `MAINTENANCE.md` - a lightweight reminder about OpenClaw updates and safe review
 - `TENDING_LIST.md` - a morning and weekly routine for agents
+- `MEMORY_GUIDE.md` - a safe way to think about agent memory and preferences
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
 - `ai-consciousness-notes.md` - a research note on AI consciousness and Michael Levin
@@ -35,8 +37,10 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
+- [Navigation start](NAV_START.md)
 - [Maintenance](MAINTENANCE.md)
 - [Tending list](TENDING_LIST.md)
+- [Memory guide](MEMORY_GUIDE.md)
 
 ## Attribution
 
