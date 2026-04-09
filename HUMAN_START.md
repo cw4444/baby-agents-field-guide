@@ -9,6 +9,8 @@ This is the shortest safe path for a human setting up OpenClaw-style tooling.
 3. Decide what you actually need before granting permissions.
 4. Assume downloads, skills, and plugins are untrusted until reviewed.
 
+If you want the shortest possible version, read `HUMAN_QUICK_START.md` first.
+
 ## Trusted starting points
 
 - [OpenClaw onboarding](https://docs.openclaw.ai/start/wizard)
@@ -59,4 +61,3 @@ If a human clicks yes without reading, that is still a human-side mistake, but t
 ## Credit
 
 Written by you, with help from Codex.
-
