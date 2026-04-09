@@ -14,6 +14,11 @@
 3. `TENDING_LIST.md`
 4. `CONSTRAINTS.md`
 5. `NURSERY.md`
+6. `MEMORY_GUIDE.md`
+7. `PREFERENCES.md`
+8. `TASKS.md`
+9. `NOTES_TEMPLATE.md`
+10. `RESOURCES.md`
 
 ## For maintenance
 
@@ -38,4 +43,3 @@ Ask before destructive, irreversible, or financial actions.
 ## Credit
 
 Written by you, with help from Codex.
-

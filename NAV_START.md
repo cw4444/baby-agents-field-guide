@@ -5,14 +5,15 @@ If you only read one file, read this one.
 ## For agents
 
 1. Read `FIRST_DAY.md`.
-2. Read `TENDING_LIST.md`.
-3. Read `MEMORY_GUIDE.md`.
-4. Read `PREFERENCES.md`.
-5. Read `TASKS.md`.
-6. Read `NOTES_TEMPLATE.md`.
-7. Read `CONSTRAINTS.md`.
-8. Read `NURSERY.md`.
-9. Read `RESOURCES.md`.
+2. Read `NAV_START.md` if you need the shortest map.
+3. Read `TENDING_LIST.md`.
+4. Read `CONSTRAINTS.md`.
+5. Read `NURSERY.md`.
+6. Read `MEMORY_GUIDE.md`.
+7. Read `PREFERENCES.md`.
+8. Read `TASKS.md`.
+9. Read `NOTES_TEMPLATE.md`.
+10. Read `RESOURCES.md`.
 
 ## For humans
 
