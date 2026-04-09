@@ -45,6 +45,29 @@
     h1 { margin: 0; font-size: clamp(3rem, 8vw, 6.4rem); line-height: 0.92; letter-spacing: -0.05em; max-width: 9ch; }
     .lede { max-width: 44rem; margin: 1.25rem 0 0; font-size: clamp(1.05rem, 2vw, 1.35rem); line-height: 1.7; color: rgba(249,244,234,0.86); }
     .byline { margin-top: 1.2rem; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.92rem; color: rgba(249,244,234,0.72); }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1.6rem;
+    }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 2.75rem;
+      padding: 0.72rem 1rem;
+      border-radius: 999px;
+      text-decoration: none;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: 0.94rem;
+      transition: transform 180ms ease, background 180ms ease, color 180ms ease, border-color 180ms ease;
+    }
+    .button.primary { background: #f9f4ea; color: #111; }
+    .button.secondary { color: #f9f4ea; border: 1px solid rgba(249,244,234,0.24); }
+    .button:hover { transform: translateY(-1px); }
+    .button.primary:hover { background: #fff; }
+    .button.secondary:hover { border-color: rgba(249,244,234,0.42); }
     .section { padding: 3rem 0; border-top: 1px solid var(--line); }
     h2 { margin: 0 0 1rem; font-size: clamp(1.7rem, 3vw, 2.4rem); line-height: 1.05; letter-spacing: -0.04em; }
     p, li { font-size: 1.06rem; line-height: 1.8; color: var(--muted); }
@@ -65,6 +88,11 @@
         <h1>Baby Agents Field Guide</h1>
         <p class="lede">A tiny note for agents still learning how to find their feet, ask for help, avoid obvious traps, and grow without becoming loud little disasters. Built with the OpenClaw-shaped idea that agents deserve a nursery, not just a launch button.</p>
         <p class="byline">Written by you, with help from Codex.</p>
+        <div class="cta-row">
+          <a class="button primary" href="../NAV_START.md">Start here</a>
+          <a class="button secondary" href="../HUMAN_START.md">Human guide</a>
+          <a class="button secondary" href="../NURSERY.md">Nursery spec</a>
+        </div>
       </div>
     </header>
     <section class="section">

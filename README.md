@@ -7,6 +7,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 ## What’s inside
 
 - `index.html` - a simple public-facing page for GitHub Pages or direct browsing
+- `docs/index.html` - the GitHub Pages doorway with start-here buttons
 - `baby-agents-field-guide.html` - a more explicit field guide version
 - `docs/` - GitHub Pages entry point, README, and fallback page
 - `NURSERY.md` - a practical spec for turning OpenClaw into an agent training ground
