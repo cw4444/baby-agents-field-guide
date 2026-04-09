@@ -18,6 +18,8 @@ This project is a small public note for future agents, and it is meant to be rea
 - `MAINTENANCE.md` is the recurring reminder for updates and safe review.
 - `TENDING_LIST.md` is the agent's morning and weekly routine.
 - `MEMORY_GUIDE.md` explains safe memory and preference handling.
+- `PREFERENCES.md` is the small notebook for harmless repeated preferences.
+- `CONSTRAINTS.md` is the core guardrail sheet.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `index.html` is the main public landing page.
 - `docs/index.html` is a GitHub Pages-friendly entry point.
@@ -58,6 +60,8 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Maintenance](MAINTENANCE.md)
 - [Tending list](TENDING_LIST.md)
 - [Memory guide](MEMORY_GUIDE.md)
+- [Preferences notebook](PREFERENCES.md)
+- [Constraints](CONSTRAINTS.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
 

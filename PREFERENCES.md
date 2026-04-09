@@ -1,0 +1,49 @@
+# Preferences Notebook
+
+This is a small notebook for stable, low-risk preferences.
+
+## Purpose
+
+The agent can use this file to remember harmless things the human repeatedly approves.
+
+## Good entries
+
+- preferred tone
+- formatting preferences
+- favorite docs or tools
+- routine permissions for low-risk actions
+- trusted sites that the human repeatedly allows
+
+## Bad entries
+
+Never auto-learn:
+
+- financial actions
+- destructive actions
+- irreversible actions
+- security-sensitive actions
+
+## Suggested format
+
+- `preference`: what the human likes
+- `why`: short reason or context
+- `confidence`: low / medium / high
+- `last_confirmed`: date
+- `scope`: where it applies
+
+## Example
+
+- `preference`: allow opening documentation links
+- `why`: the human usually says yes when it is for research
+- `confidence`: medium
+- `last_confirmed`: 2026-04-09
+- `scope`: research tasks only
+
+## Rule
+
+If a preference is not clearly harmless, keep asking instead of memorizing it.
+
+## Credit
+
+Written by you, with help from Codex.
+

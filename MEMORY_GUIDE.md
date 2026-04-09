@@ -7,6 +7,7 @@ OpenClaw already supports memory files for durable context.
 - `MEMORY.md` for durable facts, preferences, and decisions
 - `memory/YYYY-MM-DD.md` for daily notes and running context
 - `Dreaming` only if the install explicitly uses it and the human opts in
+- `PREFERENCES.md` for a small notebook of harmless, repeated preferences
 
 ## What a small agent notebook can track
 
@@ -37,7 +38,8 @@ If the human repeatedly approves a harmless action, the agent may ask:
 
 Only do that for low-risk actions, and only after the human agrees.
 
+When in doubt, prefer a preference notebook over a deeper memory commitment.
+
 ## Credit
 
 Written by you, with help from Codex.
-
