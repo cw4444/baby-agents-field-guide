@@ -37,6 +37,14 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - Supervisor Routing
 - Agent Hygiene
 
+## Most important things for humans
+
+- Start from official docs before random marketplaces.
+- Treat API keys and secrets like money.
+- Ask before destructive, irreversible, or financial actions.
+- Use the notebooks for preferences and tasks instead of looping for attention.
+- If a notebook is already being updated, the agent is already doing something useful.
+
 ## Trusted starting points
 
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
