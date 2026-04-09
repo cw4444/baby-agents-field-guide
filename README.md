@@ -39,11 +39,9 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 
 ## Most important things for humans
 
-- Start from official docs before random marketplaces.
-- Treat API keys and secrets like money.
-- Ask before destructive, irreversible, or financial actions.
-- Use the notebooks for preferences and tasks instead of looping for attention.
-- If a notebook is already being updated, the agent is already doing something useful.
+1. Start from official docs before random marketplaces.
+2. Treat API keys and secrets like money.
+3. Always ask before destructive, irreversible, or financial actions.
 
 ## Trusted starting points
 

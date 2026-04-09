@@ -60,6 +60,7 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Karpathy GitHub](https://github.com/karpathy)
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
 - [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
+- [Peter Steinberger](https://steipete.me/)
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
 - [Navigation start](NAV_START.md)

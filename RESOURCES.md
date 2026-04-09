@@ -12,6 +12,7 @@ Start here before exploring anything unofficial.
 - [Karpathy GitHub](https://github.com/karpathy)
 - [Karpathy Bear blog](https://karpathy.bearblog.dev/)
 - [Karpathy: The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
+- [Peter Steinberger](https://steipete.me/)
 
 ## Why this list exists
 
