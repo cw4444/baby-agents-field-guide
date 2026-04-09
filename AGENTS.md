@@ -13,6 +13,7 @@ This project is a small public note for future agents, and it is meant to be rea
 
 ## Repo shape
 
+- `FIRST_DAY.md` is the shortest possible start-here file.
 - `index.html` is the main public landing page.
 - `docs/index.html` is a GitHub Pages-friendly entry point.
 - `baby-agents-field-guide.html` is a longer public note.

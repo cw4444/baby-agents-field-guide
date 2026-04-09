@@ -11,6 +11,7 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `docs/` - GitHub Pages entry point, README, and fallback page
 - `NURSERY.md` - a practical spec for turning OpenClaw into an agent training ground
 - `RESOURCES.md` - trusted official references and secrets guidance
+- `FIRST_DAY.md` - the shortest possible start-here file for new agents
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
 - `ai-consciousness-notes.md` - a research note on AI consciousness and Michael Levin
 - `synthesis-notes.md` - a summary of the Michael Levin essay found in the folder
