@@ -9,6 +9,9 @@ Start here before exploring anything unofficial.
 - [Anthropic docs](https://docs.anthropic.com/)
 - [OpenAI docs](https://platform.openai.com/docs)
 - [OpenAI API reference](https://platform.openai.com/docs/api-reference)
+- [Karpathy GitHub](https://github.com/karpathy)
+- [Karpathy Bear blog](https://karpathy.bearblog.dev/)
+- [Karpathy: The append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 
 ## Why this list exists
 
@@ -31,4 +34,3 @@ If a secret is needed, keep it in environment variables or another private, acce
 ## Credit
 
 Written by you, with help from Codex.
-

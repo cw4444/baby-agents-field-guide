@@ -56,6 +56,9 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+- [Karpathy GitHub](https://github.com/karpathy)
+- [Karpathy Bear blog](https://karpathy.bearblog.dev/)
+- [Karpathy append-and-review note](https://karpathy.bearblog.dev/the-append-and-review-note/)
 - [Trusted resources](RESOURCES.md)
 - [Human start here](HUMAN_START.md)
 - [Navigation start](NAV_START.md)

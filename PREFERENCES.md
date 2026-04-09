@@ -57,6 +57,15 @@ Never auto-learn:
 
 If a preference is not clearly harmless, keep asking instead of memorizing it.
 
+## Review habit
+
+Use the same review rhythm as `TASKS.md`:
+
+- append when something matters
+- review old entries periodically
+- prune only with human confirmation
+
+
 ## Credit
 
 Written by you, with help from Codex.

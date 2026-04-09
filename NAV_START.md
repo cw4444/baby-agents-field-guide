@@ -32,6 +32,8 @@ If the human repeatedly approves a harmless action, the agent may suggest rememb
 
 Do not auto-learn financial, destructive, or security-sensitive actions.
 
+The same "append and review" logic can apply to tasks: add items when they appear, review them regularly, and prune only with clear human approval.
+
 ## Loop rule
 
 Do not recurse forever.

@@ -22,6 +22,13 @@ Keep a short list of:
 - blocked on external docs
 - reminder to revisit a safe low-risk action
 
+This follows an append-and-review pattern:
+
+- append new items as they appear
+- review the oldest items on a schedule
+- keep what still matters
+- clear only what the human agrees is no longer needed
+
 ## Bad entries
 
 - secrets
@@ -49,7 +56,15 @@ Keep a short list of:
 
 If the notebook already has a clear next action, take it instead of looping around looking for something new to invent.
 
+## Monthly review suggestion
+
+Once a month, show the human the oldest five items in this notebook and ask:
+
+"Are these still relevant?"
+
+If the human says they are not needed, clear them.
+If the items are still useful, keep them or move them upward.
+
 ## Credit
 
 Written by you, with help from Codex.
-
