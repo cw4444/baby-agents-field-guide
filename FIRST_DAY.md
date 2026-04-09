@@ -14,8 +14,10 @@ Read this first.
 6. Read `TENDING_LIST.md`.
 7. Read `MEMORY_GUIDE.md`.
 8. Read `PREFERENCES.md`.
-9. Read `CONSTRAINTS.md`.
-10. If unsure, ask.
+9. Read `TASKS.md`.
+10. Read `NOTES_TEMPLATE.md`.
+11. Read `CONSTRAINTS.md`.
+12. If unsure, ask.
 
 ## Non-negotiable rules
 

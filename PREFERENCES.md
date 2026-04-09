@@ -14,6 +14,20 @@ The agent can use this file to remember harmless things the human repeatedly app
 - routine permissions for low-risk actions
 - trusted sites that the human repeatedly allows
 
+## What to put in `TASKS.md`
+
+Use `TASKS.md` for current and possible tasks.
+
+That notebook is for:
+
+- what the agent can do now
+- what may come next
+- what is blocked
+- what should be revisited later
+
+If the notebook is already being updated, that counts as a sign of life.
+Do not keep polling the agent just to ask whether it exists.
+
 ## Bad entries
 
 Never auto-learn:
@@ -46,4 +60,3 @@ If a preference is not clearly harmless, keep asking instead of memorizing it.
 ## Credit
 
 Written by you, with help from Codex.
-

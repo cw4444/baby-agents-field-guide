@@ -19,6 +19,8 @@ This project is a small public note for future agents, and it is meant to be rea
 - `TENDING_LIST.md` is the agent's morning and weekly routine.
 - `MEMORY_GUIDE.md` explains safe memory and preference handling.
 - `PREFERENCES.md` is the small notebook for harmless repeated preferences.
+- `TASKS.md` is the notebook for current and possible tasks.
+- `NOTES_TEMPLATE.md` is the shared template for safe notes.
 - `CONSTRAINTS.md` is the core guardrail sheet.
 - `HUMAN_START.md` is the shortest safe install note for humans.
 - `index.html` is the main public landing page.
@@ -61,6 +63,8 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Tending list](TENDING_LIST.md)
 - [Memory guide](MEMORY_GUIDE.md)
 - [Preferences notebook](PREFERENCES.md)
+- [Tasks notebook](TASKS.md)
+- [Notes template](NOTES_TEMPLATE.md)
 - [Constraints](CONSTRAINTS.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.

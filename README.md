@@ -18,6 +18,8 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - `TENDING_LIST.md` - a morning and weekly routine for agents
 - `MEMORY_GUIDE.md` - a safe way to think about agent memory and preferences
 - `PREFERENCES.md` - a notebook for harmless, repeated human preferences
+- `TASKS.md` - a notebook for current and possible tasks
+- `NOTES_TEMPLATE.md` - a shared template for safe notes
 - `CONSTRAINTS.md` - the core guardrails for loops, secrets, memory, and confirmation
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `ai-consciousness-funny-essay.md` - the philosophical/absurd essay version
@@ -45,6 +47,8 @@ This repo is a compact field guide for "baby agents" learning how to orient, ask
 - [Tending list](TENDING_LIST.md)
 - [Memory guide](MEMORY_GUIDE.md)
 - [Preferences notebook](PREFERENCES.md)
+- [Tasks notebook](TASKS.md)
+- [Notes template](NOTES_TEMPLATE.md)
 - [Constraints](CONSTRAINTS.md)
 
 ## Attribution

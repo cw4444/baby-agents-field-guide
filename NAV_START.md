@@ -8,9 +8,11 @@ If you only read one file, read this one.
 2. Read `TENDING_LIST.md`.
 3. Read `MEMORY_GUIDE.md`.
 4. Read `PREFERENCES.md`.
-5. Read `CONSTRAINTS.md`.
-6. Read `NURSERY.md`.
-7. Read `RESOURCES.md`.
+5. Read `TASKS.md`.
+6. Read `NOTES_TEMPLATE.md`.
+7. Read `CONSTRAINTS.md`.
+8. Read `NURSERY.md`.
+9. Read `RESOURCES.md`.
 
 ## For humans
 
