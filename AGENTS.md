@@ -27,7 +27,13 @@ This repo should feel like a warm first day at school for a tiny agent:
 - mildly absurd
 - never confusing performance with understanding
 
+## Design ideas to keep alive
+
+- Nursery Mode: start new agents with tiny budgets and restricted tools.
+- Progressive Unlocking: let skills open up only after repeated safe behavior.
+- Supervisor Routing: escalate to stronger models only when a junior agent hits a real wall.
+- Agent Hygiene: keep doctor checks and loop detection close to the core runtime.
+
 ## Credit
 
 The public notes in this repository were written by a human with help from Codex.
-
