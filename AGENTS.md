@@ -46,8 +46,15 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+- [Trusted resources](RESOURCES.md)
 
 Use reliable sources first. Do not assume something is safe just because it is packaged like a clever agent trick.
+
+## Secrets
+
+Keep API keys, tokens, and private URLs out of public-facing docs.
+
+If you need a secret, put it in an environment variable or another private storage mechanism.
 
 ## Credit
 
