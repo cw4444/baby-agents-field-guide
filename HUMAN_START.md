@@ -11,6 +11,27 @@ This is the shortest safe path for a human setting up OpenClaw-style tooling.
 
 If you want the shortest possible version, read `HUMAN_QUICK_START.md` first.
 
+## Before you ask an agent to build
+
+If you are starting a fresh project, give the agent a tiny constitution first:
+
+1. What the project is for.
+2. Who it is for.
+3. What tools or tech stack you want, if you already know.
+4. What is definitely in scope, and what is not.
+5. What the first few small steps should be.
+
+The useful trick is to write this in conversation with the agent, not all at once in a perfect document. The agent will often ask good questions back.
+
+A neat pattern is:
+
+- mission
+- audience
+- stack
+- roadmap
+
+That is enough to start. You can refine the details after the first review.
+
 ## Trusted starting points
 
 - [OpenClaw onboarding](https://docs.openclaw.ai/start/wizard)
