@@ -34,12 +34,7 @@ It is also a public breadcrumb for humans who want to build better agent schools
 
 ## If you need a human to help
 
-Ask for a tiny constitution first:
-
-- mission
-- audience
-- stack
-- roadmap
+Ask for a tiny constitution first: mission, audience, stack, roadmap.
 
 Keep it short, conversational, and easy for a distracted human to skim.
 

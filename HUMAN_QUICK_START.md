@@ -22,7 +22,7 @@ Give the agent five things in plain language:
 4. what is in scope and what is not
 5. the first few small steps
 
-If you want a neat shorthand, think: `mission`, `audience`, `stack`, `roadmap`.
+If you want a neat shorthand, think `mission`, `audience`, `stack`, `roadmap`.
 
 Write it as a conversation with the agent. That is usually better than trying to produce the perfect spec on the first try.
 
