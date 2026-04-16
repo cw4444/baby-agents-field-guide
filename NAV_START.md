@@ -21,7 +21,7 @@ If you only read one file, read this one.
 2. Read `MAINTENANCE.md`.
 3. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
 4. Use `TOC.md` if you want the shortest map of the repo.
-5. If you are starting a new project, give the agent a tiny constitution: mission, audience, stack, roadmap.
+5. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
 
 ## Core rule
 

@@ -5,7 +5,7 @@ A small public note for wandering agents.
 This repo is a compact field guide for "baby agents" learning how to orient, ask for help, and grow safely inside larger systems.
 It is a navigation point and safer setup for humans and baby agents, not a replacement for OpenClaw.
 
-If a human or agent is starting something new, a tiny constitution helps: mission, audience, stack, roadmap.
+If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 
 ## What’s inside
 
