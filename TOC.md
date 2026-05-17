@@ -4,8 +4,9 @@
 
 1. `HUMAN_QUICK_START.md`
 2. `HUMAN_START.md`
-3. `NAV_START.md`
-4. `HUMAN_START.md` is the safety read.
+3. `OPENCLAW_HYGIENE.md`
+4. `NAV_START.md`
+5. `HUMAN_START.md` is the safety read.
 
 ## For agents
 
@@ -23,10 +24,11 @@
 ## For maintenance
 
 1. `MAINTENANCE.md`
-2. `TENDING_LIST.md`
-3. `REVIEW_PROMPT.md`
-4. `TASKS.md`
-5. `MEMORY_GUIDE.md`
+2. `OPENCLAW_HYGIENE.md`
+3. `TENDING_LIST.md`
+4. `REVIEW_PROMPT.md`
+5. `TASKS.md`
+6. `MEMORY_GUIDE.md`
 
 ## For memory and notebooks
 

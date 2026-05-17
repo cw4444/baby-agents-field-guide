@@ -4,6 +4,11 @@ Start here before exploring anything unofficial.
 
 ## Official docs
 
+- [OpenClaw GitHub repo](https://github.com/openclaw/openclaw)
+- [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)
+- [OpenClaw updating](https://docs.openclaw.ai/install/updating)
+- [OpenClaw security](https://docs.openclaw.ai/gateway/security)
+- [OpenClaw sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 - [Anthropic docs](https://docs.anthropic.com/)

@@ -11,6 +11,8 @@ This is the shortest safe path for a human setting up OpenClaw-style tooling.
 
 If you want the shortest possible version, read `HUMAN_QUICK_START.md` first.
 
+If you are specifically installing, updating, exposing, or granting broad permissions to OpenClaw, read `OPENCLAW_HYGIENE.md` too.
+
 ## Before you ask an agent to build
 
 If you are starting a fresh project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
@@ -27,9 +29,12 @@ That is enough to start. You can refine the details after the first review.
 ## Trusted starting points
 
 - [OpenClaw onboarding](https://docs.openclaw.ai/start/wizard)
+- [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)
+- [OpenClaw updating](https://docs.openclaw.ai/install/updating)
+- [OpenClaw security](https://docs.openclaw.ai/gateway/security)
 - [OpenClaw Docker install](https://docs.openclaw.ai/install/docker)
 - [OpenClaw Podman install](https://docs.openclaw.ai/install/podman)
-- [OpenClaw sandboxing](https://docs.openclaw.ai/sandboxing)
+- [OpenClaw sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - [OpenClaw macOS permissions](https://docs.openclaw.ai/mac/permissions)
 - [OpenClaw building plugins](https://docs.openclaw.ai/plugins/building-plugins)
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
@@ -40,6 +45,7 @@ That is enough to start. You can refine the details after the first review.
 - Use the official docs and repo instructions instead of copy-pasting a random TikTok or social-media one-liner.
 - Start with the smallest install that works for your use case.
 - Keep destructive permissions and broad filesystem access off until you know why you need them.
+- Read commands with `sudo`, `curl ... | bash`, global installs, daemon setup, or auto-start services before approving them.
 - Treat API keys as money. Every key can spend money if the model uses it.
 - Keep secrets out of public files and screenshots.
 

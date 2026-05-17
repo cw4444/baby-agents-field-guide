@@ -12,6 +12,8 @@ If you only read one short file before installing or running OpenClaw-style tool
 
 Use the official install path, pick the smallest permission set that will actually work, and assume downloads, skills, and plugins are untrusted until reviewed.
 
+For OpenClaw specifically, read `OPENCLAW_HYGIENE.md` before installing, updating, exposing the gateway, adding skills, or approving shell/browser/file access.
+
 ## Before you ask an agent to build
 
 Give the agent five things in plain language:

@@ -21,10 +21,11 @@ simple, repeatable, and meant to keep the garden alive.
 1. Check whether the official OpenClaw docs have changed.
 2. Remind the human to run the official update path if needed.
 3. Run or request `openclaw doctor` before major changes.
-4. Review installed skills and remove anything suspicious.
-5. Confirm no API keys or secrets leaked into public docs.
-6. Check whether any recurring workflows need tuning.
-7. Verify that the agent still knows where to escalate.
+4. Run or request `openclaw security audit` after channel, skill, plugin, network, or permission changes.
+5. Review installed skills and remove anything suspicious.
+6. Confirm no API keys or secrets leaked into public docs.
+7. Check whether any recurring workflows need tuning.
+8. Verify that the agent still knows where to escalate.
 
 ## Safety reminders
 

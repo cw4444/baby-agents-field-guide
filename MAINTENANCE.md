@@ -8,17 +8,20 @@ Check whether OpenClaw guidance has changed.
 
 If the docs or workflow have shifted, remind the human to:
 
-- run `openclaw update` on a source install, or
+- run `openclaw update --dry-run` before applying changes,
 - use the official OpenClaw update path for their install method,
+- run `openclaw doctor` after updating,
+- run `openclaw security audit` when permissions, channels, skills, plugins, or network exposure changed,
 - then review the changes before approving anything risky.
 
-If you want a fuller routine, see `TENDING_LIST.md`.
+If you want a fuller routine, see `TENDING_LIST.md` and `OPENCLAW_HYGIENE.md`.
 
 ## What to remind the human about
 
 - OpenClaw updates are not automatic in the general sense.
 - Updates can affect behavior, skills, permissions, and services.
 - `openclaw doctor` is part of the safe-update flow.
+- `openclaw security audit` is the quick check for risky access and configuration drift.
 - The human should read before confirming any update or restart.
 
 ## What not to do
