@@ -20,6 +20,26 @@ Default handling:
 
 Proceed with normal caution. Still verify permissions involving deletion, filesystem writes, shell execution, sudo/admin access, network calls, API keys, OAuth scopes, scheduled tasks, or background services.
 
+## Budget safety
+
+If the human uses API keys:
+
+- check whether usage limits or budget alerts are set
+- identify high-token loops
+- inspect scheduled jobs and background workers
+- look for repeated retries
+- check logs for runaway calls
+- warn before enabling long-running tasks
+- prefer subscription-based tools where appropriate
+
+If the human uses ChatGPT, Codex, Claude, or other subscription tools:
+
+- still check whether plugins, scripts, MCP servers, or background jobs call paid services
+- do not assume "using ChatGPT" means "no API costs"
+- do not assume "using Claude" means every agent harness draws from normal subscription limits
+- check whether the tool is using subscription limits, a separate monthly credit, extra usage, or a direct API key
+- confirm whether any connected tool can spend API, cloud, hosting, messaging, or usage-based money
+
 ## Medium operational risk signals
 
 The human may be moving fast or working across unfamiliar tools.
@@ -44,6 +64,7 @@ The human:
 
 - pastes API keys, tokens, cookies, or passwords directly into chat or terminal
 - wants to run `curl ... | bash` without inspection
+- wants to use `sudo`, admin approval, or a permanent token without understanding why
 - asks the agent to "just fix everything"
 - grants broad filesystem access without understanding scope
 - asks for always-on background automation without monitoring
@@ -64,6 +85,24 @@ Switch to safety-first handling:
 5. avoid sudo/admin unless strictly required
 6. prefer reversible actions
 7. log what changed
+
+## Permission red flags
+
+Pause before any action involving:
+
+- `sudo`
+- `rm`, `del`, `rmdir`, or destructive cleanup scripts
+- `curl | bash`, `curl ... | bash`, `wget | sh`, or similar one-line installers
+- OAuth scopes involving mail, drive, contacts, calendar, payments, repositories, or admin access
+- permanent tokens
+- broad filesystem access
+- background daemons
+- cron jobs or scheduled tasks
+- auto-reply or auto-send
+- production deploys
+- database migrations
+
+These actions are not always wrong. They are the point where "ask before acting" needs to become "explain what can happen, inspect first where possible, and get specific confirmation."
 
 ## Supportive-agent over-trust
 

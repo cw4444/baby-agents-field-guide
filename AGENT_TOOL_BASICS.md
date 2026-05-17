@@ -30,6 +30,7 @@ Human checklist:
 6. Prefer OAuth or sign-in flows over pasting raw API keys.
 7. Use MFA on accounts that can reach code or billing.
 8. Treat network access as a permission that can expose code, secrets, or licensing risk.
+9. Check whether scripts, plugins, or background tasks can create API, cloud, or hosting spend.
 
 Official starting points:
 
@@ -38,6 +39,21 @@ Official starting points:
 - [OpenAI Codex CLI getting started](https://help.openai.com/en/articles/11096431)
 - [OpenAI Codex CLI sign-in](https://help.openai.com/en/articles/11381614-api-codex-cli-and-sign-in-with-chatgpt)
 - [OpenAI Codex agent internet access](https://platform.openai.com/docs/codex/agent-network)
+
+## Subscription, API, and credit boundaries
+
+Do not assume that a subscription means all agent usage is included.
+
+For Codex/OpenAI, OpenClaw's current OpenAI provider docs say Codex supports ChatGPT sign-in for subscription access or API key sign-in for usage-based access, and that OpenAI supports subscription OAuth usage in external tools and workflows like OpenClaw. That is different from pasting an OpenAI API key, which can create usage-based API spend.
+
+For Claude/Anthropic, the boundary is different. As of Anthropic's help docs checked on May 17, 2026:
+
+- interactive Claude Code in the terminal or IDE uses Claude subscription limits
+- using an `ANTHROPIC_API_KEY` can switch Claude Code to API usage charges instead of subscription usage
+- starting June 15, 2026, Claude Agent SDK usage, `claude -p`, Claude Code GitHub Actions, and third-party apps built on the Agent SDK use a separate monthly Agent SDK credit
+- after that credit is used, additional Agent SDK usage moves to extra usage at standard API rates only if extra usage is enabled
+
+Plain-English rule: before using Claude through OpenClaw, an Agent SDK app, `claude -p`, GitHub Actions, or any non-interactive harness, check whether it is using subscription limits, a separate credit, extra usage, or a direct API key.
 
 ## Claude Code
 
@@ -62,6 +78,7 @@ Human checklist:
 6. Use trusted MCP servers and keep permissions narrow.
 7. Use devcontainers, VMs, or separate users for risky code or untrusted dependencies.
 8. Review changes to critical files before approving commits, pushes, deploys, or migrations.
+9. Check whether MCP servers, scripts, or hooks can call paid services.
 
 Official starting points:
 
@@ -71,6 +88,8 @@ Official starting points:
 - [Claude Code settings](https://docs.anthropic.com/en/docs/claude-code/settings)
 - [Claude Code memory](https://docs.anthropic.com/en/docs/claude-code/memory)
 - [Claude Code MCP](https://docs.anthropic.com/en/docs/claude-code/mcp)
+- [Claude Code with Pro or Max](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan)
+- [Claude Agent SDK with your Claude plan](https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan)
 
 ## OpenClaw
 
@@ -90,6 +109,7 @@ For any agent tool:
 6. Avoid broad filesystem, shell, browser, messaging, and network access until needed.
 7. Prefer reversible steps.
 8. Keep human confirmation for destructive, irreversible, financial, security-sensitive, or public actions.
+9. Treat `sudo`, destructive cleanup commands, one-line installers, broad OAuth scopes, permanent tokens, auto-send behavior, production deploys, and database migrations as red flags.
 
 ## Useful sentence
 

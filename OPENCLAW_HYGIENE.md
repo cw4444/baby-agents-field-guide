@@ -67,6 +67,17 @@ Start small:
 
 OpenClaw's security docs describe the personal-assistant trust model: one trusted operator boundary per gateway. If several people can message one tool-enabled agent, they can steer the same permission set. That is fine for a trusted household or team only when the tools and accounts match that trust level.
 
+## Provider billing boundaries
+
+Before choosing a model provider, check whether OpenClaw is using a subscription login, a monthly credit, extra usage, or a direct API key.
+
+Provider rules differ:
+
+- OpenAI/Codex may support ChatGPT subscription OAuth in OpenClaw-style external workflows, while OpenAI API keys remain usage-based.
+- Claude subscription access, Claude Code interactive use, Claude Agent SDK use, `claude -p`, GitHub Actions, third-party harnesses, extra usage, and Anthropic API keys may draw from different buckets.
+
+Do not tell the human "your subscription covers this" unless the current provider docs say that exact route is covered. If there is any doubt, inspect the configured provider, account type, API keys, OAuth login, and auto-reload or extra-usage settings before starting long-running agent work.
+
 ## Updates
 
 Updates matter because they can change behavior, permissions, services, skills, and security checks.
