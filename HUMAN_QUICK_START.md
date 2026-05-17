@@ -12,6 +12,8 @@ If you only read one short file before installing or running agent tooling, read
 
 Use the official install path, pick the smallest permission set that will actually work, and assume downloads, skills, and plugins are untrusted until reviewed.
 
+If you are choosing between agent tools, read `CHOOSING_AGENT_TOOLS.md`.
+
 For Codex, Claude Code, and similar coding agents, read `AGENT_TOOL_BASICS.md`.
 
 For OpenClaw specifically, read `OPENCLAW_HYGIENE.md` before installing, updating, exposing the gateway, adding skills, or approving shell/browser/file access.

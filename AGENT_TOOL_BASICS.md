@@ -6,6 +6,8 @@ The short version: ChatGPT, Claude, Codex, Claude Code, and OpenClaw are not the
 
 Before granting access, ask what the agent can read, what it can change, what it can run, and whether it keeps working after you walk away.
 
+If you are choosing between tools, start with `CHOOSING_AGENT_TOOLS.md`.
+
 ## Codex
 
 Codex is OpenAI's coding agent family. It can work in different places, including cloud tasks, IDE-style flows, and a local CLI.
@@ -90,6 +92,31 @@ Official starting points:
 - [Claude Code MCP](https://docs.anthropic.com/en/docs/claude-code/mcp)
 - [Claude Code with Pro or Max](https://support.claude.com/en/articles/11145838-use-claude-code-with-your-pro-or-max-plan)
 - [Claude Agent SDK with your Claude plan](https://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan)
+
+## Claude Cowork
+
+Claude Cowork is Anthropic's agentic work mode inside Claude Desktop. Anthropic describes it as bringing Claude Code's agentic architecture to knowledge work beyond coding.
+
+Useful default understanding:
+
+- Cowork can handle multi-step tasks such as documents, files, research, summaries, reports, and recurring admin work.
+- Cowork runs on the human's computer and can make real changes to files the human shares.
+- Cowork can use connected tools, plugins, scheduled tasks, internet access, and computer use depending on setup.
+- Scheduled tasks and "assign from anywhere" behavior make Cowork closer to a bounded agent workspace than a normal chat window.
+
+Human checklist:
+
+1. Choose the folder and connected tools deliberately.
+2. Review deletion prompts and file-output locations.
+3. Treat scheduled tasks as background automation.
+4. Keep plugins and connectors narrow.
+5. Watch usage limits, especially for long multi-step tasks.
+
+Official starting points:
+
+- [Claude Cowork getting started](https://support.claude.com/en/articles/13345190-get-started-with-cowork)
+- [Claude Cowork scheduled tasks](https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-cowork)
+- [Assign tasks to Claude from anywhere in Cowork](https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork)
 
 ## OpenClaw
 

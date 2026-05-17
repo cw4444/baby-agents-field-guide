@@ -4,11 +4,12 @@
 
 1. `HUMAN_QUICK_START.md`
 2. `HUMAN_START.md`
-3. `AGENT_TOOL_BASICS.md`
-4. `OPENCLAW_HYGIENE.md`
-5. `HUMAN_RISK_CHECK.md`
-6. `NAV_START.md`
-7. `HUMAN_START.md` is the safety read.
+3. `CHOOSING_AGENT_TOOLS.md`
+4. `AGENT_TOOL_BASICS.md`
+5. `OPENCLAW_HYGIENE.md`
+6. `HUMAN_RISK_CHECK.md`
+7. `NAV_START.md`
+8. `HUMAN_START.md` is the safety read.
 
 ## For agents
 
@@ -17,13 +18,14 @@
 3. `TENDING_LIST.md`
 4. `CONSTRAINTS.md`
 5. `HUMAN_RISK_CHECK.md`
-6. `AGENT_TOOL_BASICS.md`
-7. `NURSERY.md`
-8. `MEMORY_GUIDE.md`
-9. `PREFERENCES.md`
-10. `TASKS.md`
-11. `NOTES_TEMPLATE.md`
-12. `RESOURCES.md`
+6. `CHOOSING_AGENT_TOOLS.md`
+7. `AGENT_TOOL_BASICS.md`
+8. `NURSERY.md`
+9. `MEMORY_GUIDE.md`
+10. `PREFERENCES.md`
+11. `TASKS.md`
+12. `NOTES_TEMPLATE.md`
+13. `RESOURCES.md`
 
 ## For maintenance
 

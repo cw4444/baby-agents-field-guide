@@ -11,6 +11,8 @@ This is the shortest safe path for a human setting up agent tooling.
 
 If you want the shortest possible version, read `HUMAN_QUICK_START.md` first.
 
+If you are deciding which agent tool to use first, read `CHOOSING_AGENT_TOOLS.md`.
+
 If you are choosing between Codex, Claude Code, OpenClaw, and similar tools, read `AGENT_TOOL_BASICS.md`.
 
 If you are specifically installing, updating, exposing, or granting broad permissions to OpenClaw, read `OPENCLAW_HYGIENE.md` too.
@@ -32,6 +34,7 @@ That is enough to start. You can refine the details after the first review.
 
 ## Trusted starting points
 
+- [Choosing agent tools](CHOOSING_AGENT_TOOLS.md)
 - [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw onboarding](https://docs.openclaw.ai/start/wizard)
 - [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)

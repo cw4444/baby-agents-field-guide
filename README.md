@@ -15,6 +15,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 - `docs/` - GitHub Pages entry point, README, and fallback page
 - `NURSERY.md` - a practical spec for turning OpenClaw into an agent training ground
 - `RESOURCES.md` - trusted official references and secrets guidance
+- `CHOOSING_AGENT_TOOLS.md` - a decision guide for Codex, Claude Code, Claude Cowork, and OpenClaw-style gateways
 - `AGENT_TOOL_BASICS.md` - a normal-human guide to Codex, Claude Code, and similar coding agents
 - `OPENCLAW_HYGIENE.md` - the plain-English OpenClaw safety and update checklist
 - `HUMAN_RISK_CHECK.md` - a quick way to choose the right caution level before risky actions
@@ -72,6 +73,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
+- [Choosing agent tools](CHOOSING_AGENT_TOOLS.md)
 - [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw hygiene](OPENCLAW_HYGIENE.md)
 - [Human risk check](HUMAN_RISK_CHECK.md)

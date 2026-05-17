@@ -14,6 +14,8 @@ Start here before exploring anything unofficial.
 - [Claude Code settings](https://docs.anthropic.com/en/docs/claude-code/settings)
 - [Claude Code memory](https://docs.anthropic.com/en/docs/claude-code/memory)
 - [Claude Code MCP](https://docs.anthropic.com/en/docs/claude-code/mcp)
+- [Claude Cowork getting started](https://support.claude.com/en/articles/13345190-get-started-with-cowork)
+- [Claude Cowork scheduled tasks](https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-cowork)
 - [OpenClaw GitHub repo](https://github.com/openclaw/openclaw)
 - [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)
 - [OpenClaw updating](https://docs.openclaw.ai/install/updating)

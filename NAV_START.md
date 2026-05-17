@@ -18,13 +18,14 @@ If you only read one file, read this one.
 ## For humans
 
 1. Read `HUMAN_START.md`.
-2. Read `AGENT_TOOL_BASICS.md` if you are choosing or configuring Codex, Claude Code, OpenClaw, or similar tools.
-3. Read `OPENCLAW_HYGIENE.md` before installing, updating, exposing, or granting broad permissions to OpenClaw.
-4. Read `HUMAN_RISK_CHECK.md` before broad permissions, background automation, deletion, messaging, or secrets.
-5. Read `MAINTENANCE.md`.
-6. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
-7. Use `TOC.md` if you want the shortest map of the repo.
-8. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
+2. Read `CHOOSING_AGENT_TOOLS.md` if you are deciding whether to use Codex, Claude Code, Claude Cowork, OpenClaw, or another agent tool.
+3. Read `AGENT_TOOL_BASICS.md` if you are configuring Codex, Claude Code, OpenClaw, or similar tools.
+4. Read `OPENCLAW_HYGIENE.md` before installing, updating, exposing, or granting broad permissions to OpenClaw.
+5. Read `HUMAN_RISK_CHECK.md` before broad permissions, background automation, deletion, messaging, or secrets.
+6. Read `MAINTENANCE.md`.
+7. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
+8. Use `TOC.md` if you want the shortest map of the repo.
+9. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
 
 ## Core rule
 
