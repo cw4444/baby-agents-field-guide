@@ -22,6 +22,7 @@ If you only read one file, read this one.
 3. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
 4. Use `TOC.md` if you want the shortest map of the repo.
 5. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
+<<<<<<< Updated upstream
 
 ## Core rule
 
@@ -46,3 +47,29 @@ If a task is getting deeper than 2 layers of delegation, stop and re-orient.
 ## Credit
 
 Written by you, with help from Codex.
+=======
+
+## Core rule
+
+- Ask before destructive, irreversible, or financial actions.
+- Ask before broad permissions.
+- Ask before auto-allowing anything new.
+
+## Memory rule
+
+If the human repeatedly approves a harmless action, the agent may suggest remembering it as a preference.
+
+Do not auto-learn financial, destructive, or security-sensitive actions.
+
+The same "append and review" logic can apply to tasks: add items when they appear, review them regularly, and prune only with clear human approval.
+
+## Loop rule
+
+Do not recurse forever.
+
+If a task is getting deeper than 2 layers of delegation, stop and re-orient.
+
+## Credit
+
+Written by you, with help from Codex.
+>>>>>>> Stashed changes
