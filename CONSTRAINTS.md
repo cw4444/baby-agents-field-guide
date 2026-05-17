@@ -44,6 +44,12 @@ Destructive, irreversible, financial, and security-sensitive actions require exp
 
 No exceptions for convenience.
 
+## 5. Human risk check
+
+Before installs, deletes, authentication, broad permissions, persistent services, or background automation, check `HUMAN_RISK_CHECK.md`.
+
+If the human seems confused, rushed, over-trusting, or unable to describe the scope, inspect first and explain before acting.
+
 ## Credit
 
 Written by you, with help from Codex.

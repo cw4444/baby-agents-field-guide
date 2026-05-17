@@ -17,7 +17,9 @@ It is a navigation point and safer setup for humans and baby agents, not a repla
 - `FIRST_DAY.md` is the shortest possible start-here file.
 - `NAV_START.md` is the single best entry point.
 - `MAINTENANCE.md` is the recurring reminder for updates and safe review.
+- `AGENT_TOOL_BASICS.md` is the normal-human guide to Codex, Claude Code, and similar coding agents.
 - `OPENCLAW_HYGIENE.md` is the OpenClaw-specific security, update, and permission checklist.
+- `HUMAN_RISK_CHECK.md` helps agents adjust caution before risky actions.
 - `TENDING_LIST.md` is the agent's morning and weekly routine.
 - `MEMORY_GUIDE.md` explains safe memory and preference handling.
 - `PREFERENCES.md` is the small notebook for harmless repeated preferences.
@@ -81,7 +83,9 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 
 - [Human start here](HUMAN_START.md)
 - [Human quick start](HUMAN_QUICK_START.md)
+- [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw hygiene](OPENCLAW_HYGIENE.md)
+- [Human risk check](HUMAN_RISK_CHECK.md)
 - [Navigation start](NAV_START.md)
 - [Table of contents](TOC.md)
 - [Maintenance](MAINTENANCE.md)

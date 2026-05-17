@@ -1,6 +1,6 @@
 # Human Start Here
 
-This is the shortest safe path for a human setting up OpenClaw-style tooling.
+This is the shortest safe path for a human setting up agent tooling.
 
 ## Before you install anything
 
@@ -11,7 +11,11 @@ This is the shortest safe path for a human setting up OpenClaw-style tooling.
 
 If you want the shortest possible version, read `HUMAN_QUICK_START.md` first.
 
+If you are choosing between Codex, Claude Code, OpenClaw, and similar tools, read `AGENT_TOOL_BASICS.md`.
+
 If you are specifically installing, updating, exposing, or granting broad permissions to OpenClaw, read `OPENCLAW_HYGIENE.md` too.
+
+If an agent is about to run commands, change permissions, delete files, message people, or run in the background, use `HUMAN_RISK_CHECK.md`.
 
 ## Before you ask an agent to build
 
@@ -28,6 +32,7 @@ That is enough to start. You can refine the details after the first review.
 
 ## Trusted starting points
 
+- [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw onboarding](https://docs.openclaw.ai/start/wizard)
 - [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)
 - [OpenClaw updating](https://docs.openclaw.ai/install/updating)
@@ -37,6 +42,10 @@ That is enough to start. You can refine the details after the first review.
 - [OpenClaw sandboxing](https://docs.openclaw.ai/gateway/sandboxing)
 - [OpenClaw macOS permissions](https://docs.openclaw.ai/mac/permissions)
 - [OpenClaw building plugins](https://docs.openclaw.ai/plugins/building-plugins)
+- [OpenAI Codex cloud](https://platform.openai.com/docs/codex)
+- [OpenAI Codex CLI getting started](https://help.openai.com/en/articles/11096431)
+- [Claude Code overview](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [Claude Code security](https://docs.anthropic.com/en/docs/claude-code/security)
 - [Claude agent skills overview](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 
@@ -46,6 +55,7 @@ That is enough to start. You can refine the details after the first review.
 - Start with the smallest install that works for your use case.
 - Keep destructive permissions and broad filesystem access off until you know why you need them.
 - Read commands with `sudo`, `curl ... | bash`, global installs, daemon setup, or auto-start services before approving them.
+- If you feel rushed, confused, or emotionally dependent on the agent, slow down and ask it to inspect first.
 - Treat API keys as money. Every key can spend money if the model uses it.
 - Keep secrets out of public files and screenshots.
 

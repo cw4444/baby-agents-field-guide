@@ -4,6 +4,16 @@ Start here before exploring anything unofficial.
 
 ## Official docs
 
+- [OpenAI Codex cloud](https://platform.openai.com/docs/codex)
+- [OpenAI Codex use cases](https://developers.openai.com/codex/explore/)
+- [OpenAI Codex CLI getting started](https://help.openai.com/en/articles/11096431)
+- [OpenAI Codex CLI sign-in](https://help.openai.com/en/articles/11381614-api-codex-cli-and-sign-in-with-chatgpt)
+- [OpenAI Codex agent internet access](https://platform.openai.com/docs/codex/agent-network)
+- [Claude Code overview](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [Claude Code security](https://docs.anthropic.com/en/docs/claude-code/security)
+- [Claude Code settings](https://docs.anthropic.com/en/docs/claude-code/settings)
+- [Claude Code memory](https://docs.anthropic.com/en/docs/claude-code/memory)
+- [Claude Code MCP](https://docs.anthropic.com/en/docs/claude-code/mcp)
 - [OpenClaw GitHub repo](https://github.com/openclaw/openclaw)
 - [OpenClaw getting started](https://docs.openclaw.ai/start/getting-started)
 - [OpenClaw updating](https://docs.openclaw.ai/install/updating)

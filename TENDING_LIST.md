@@ -12,9 +12,10 @@ simple, repeatable, and meant to keep the garden alive.
 3. Review `FIRST_DAY.md` if you feel scattered.
 4. Read `MAINTENANCE.md` if update timing matters.
 5. Check for secrets, destructive steps, and financial actions.
-6. Ask for human confirmation before anything risky.
-7. Prefer official docs over random marketplace links.
-8. If a tool or skill looks clever but unclear, slow down.
+6. Check `HUMAN_RISK_CHECK.md` if the task involves broad access, background automation, deletion, messaging, or secrets.
+7. Ask for human confirmation before anything risky.
+8. Prefer official docs over random marketplace links.
+9. If a tool or skill looks clever but unclear, slow down.
 
 ## Weekly routine
 

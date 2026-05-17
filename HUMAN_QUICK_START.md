@@ -1,6 +1,6 @@
 # Human Quick Start
 
-If you only read one short file before installing or running OpenClaw-style tooling, read this one.
+If you only read one short file before installing or running agent tooling, read this one.
 
 ## The three rules
 
@@ -12,7 +12,11 @@ If you only read one short file before installing or running OpenClaw-style tool
 
 Use the official install path, pick the smallest permission set that will actually work, and assume downloads, skills, and plugins are untrusted until reviewed.
 
+For Codex, Claude Code, and similar coding agents, read `AGENT_TOOL_BASICS.md`.
+
 For OpenClaw specifically, read `OPENCLAW_HYGIENE.md` before installing, updating, exposing the gateway, adding skills, or approving shell/browser/file access.
+
+If the agent is asking for broad permissions, background access, deletion, messaging, or secrets, use `HUMAN_RISK_CHECK.md`.
 
 ## Before you ask an agent to build
 
