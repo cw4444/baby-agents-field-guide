@@ -5,9 +5,9 @@ If you only read one file, read this one.
 ## For agents
 
 1. Read `FIRST_DAY.md`.
-2. Read `NAV_START.md` if you need the shortest map.
+2. Read `CONSTRAINTS.md`.
 3. Read `TENDING_LIST.md`.
-4. Read `CONSTRAINTS.md`.
+4. Read `HUMAN_RISK_CHECK.md` before risky actions.
 5. Read `NURSERY.md`.
 6. Read `MEMORY_GUIDE.md`.
 7. Read `PREFERENCES.md`.

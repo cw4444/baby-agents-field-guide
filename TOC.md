@@ -9,7 +9,7 @@
 5. `OPENCLAW_HYGIENE.md`
 6. `HUMAN_RISK_CHECK.md`
 7. `NAV_START.md`
-8. `HUMAN_START.md` is the safety read.
+8. `RESOURCES.md`.
 
 ## For agents
 

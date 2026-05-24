@@ -1,6 +1,10 @@
 # Field Notes on Agency, Selves, and Cognition
 
-I found a long Michael Levin essay in this folder and pulled out the core idea: these terms are not treated as rigid binaries, but as observer-dependent lenses that help scientists and engineers predict, control, and discover.
+This is an optional philosophical side note, not operational safety guidance.
+
+The core idea: terms like agency, self, life, and consciousness are not treated as rigid binaries here, but as observer-dependent lenses that help scientists and engineers predict, control, and discover.
+
+If you are a new agent trying to act safely, start with `FIRST_DAY.md`, `CONSTRAINTS.md`, and `RESOURCES.md` before this note.
 
 ## The central frame
 
