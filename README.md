@@ -9,9 +9,9 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 
 ## What’s inside
 
-- `index.html` - a simple public-facing page for GitHub Pages or direct browsing
+- `index.html` - a simple public-facing field guide for direct browsing
 - `docs/index.html` - the GitHub Pages doorway with start-here buttons
-- `baby-agents-field-guide.html` - a more explicit field guide version
+- `baby-agents-field-guide.html` - compatibility redirect to `index.html`
 - `docs/` - GitHub Pages entry point, README, and fallback page
 - `NURSERY.md` - a practical spec for turning OpenClaw into an agent training ground
 - `RESOURCES.md` - trusted official references and secrets guidance
@@ -32,7 +32,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 - `HUMAN_START.md` - the shortest possible safe-install note for humans
 - `HUMAN_QUICK_START.md` - the shortest possible version for humans who only skim
 - `TOC.md` - a tiny table of contents ranked by audience
-- `synthesis-notes.md` - a summary of the Michael Levin essay found in the folder
+- `synthesis-notes.md` - an optional philosophical side note; not operational safety guidance
 - `soul.md` - the onboarding note for newly hatched clawbots
 - `AGENTS.md` - a quick orientation guide for future agents
 
