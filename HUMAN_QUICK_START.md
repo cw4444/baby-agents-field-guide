@@ -7,6 +7,7 @@ If you only read one short file before installing or running agent tooling, read
 1. Start with official docs before random marketplaces or one-line installs.
 2. Treat API keys and secrets like money.
 3. Always ask before destructive, irreversible, or financial actions.
+4. Do not rely on tired-human approval as a safety system.
 
 ## Before you install
 
@@ -19,6 +20,8 @@ For Codex, Claude Code, and similar coding agents, read `AGENT_TOOL_BASICS.md`.
 For OpenClaw specifically, read `OPENCLAW_HYGIENE.md` before installing, updating, exposing the gateway, adding skills, or approving shell/browser/file access.
 
 If the agent is asking for broad permissions, background access, deletion, messaging, or secrets, use `HUMAN_RISK_CHECK.md`.
+
+If you are approving commands or permissions without really understanding them, read `HUMAN_IN_THE_LOOP.md`.
 
 ## Before you ask an agent to build
 
@@ -36,7 +39,7 @@ Write it as a conversation with the agent. That is usually better than trying to
 
 ## Reminder
 
-If a human clicks yes without reading, that is a human-side mistake, but the agent still had to ask clearly and wait.
+If a human clicks yes without reading, that is weak consent. The agent should explain, inspect first where possible, and ask for a specific yes before high-impact actions.
 
 ## Credit
 

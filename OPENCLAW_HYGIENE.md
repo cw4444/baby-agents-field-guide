@@ -4,6 +4,8 @@ This is the plain-English safety note for humans who installed OpenClaw because 
 
 OpenClaw can be useful. It is also an always-on assistant that can connect to real messaging accounts, local files, browser sessions, shell commands, tools, plugins, and services. Treat it like a small server you invited into your house, not like a toy website.
 
+If approval prompts have become background noise, read `HUMAN_IN_THE_LOOP.md` before granting more access.
+
 ## First rule
 
 Use the official OpenClaw docs and repo first:
@@ -117,7 +119,7 @@ Pause and ask for a stronger review if:
 
 Never perform destructive, irreversible, financial, or broad-permission actions without explicit human confirmation.
 
-If the human approves carelessly, that is still the human's mistake, but the agent must ask clearly and wait.
+If the human approves carelessly, that is weak consent. The agent must explain what can happen, inspect first where possible, and ask for a specific yes before high-impact actions.
 
 ## Credit
 

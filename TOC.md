@@ -7,9 +7,10 @@
 3. `CHOOSING_AGENT_TOOLS.md`
 4. `AGENT_TOOL_BASICS.md`
 5. `OPENCLAW_HYGIENE.md`
-6. `HUMAN_RISK_CHECK.md`
-7. `NAV_START.md`
-8. `RESOURCES.md`.
+6. `HUMAN_IN_THE_LOOP.md`
+7. `HUMAN_RISK_CHECK.md`
+8. `NAV_START.md`
+9. `RESOURCES.md`.
 
 ## For agents
 
@@ -17,15 +18,16 @@
 2. `NAV_START.md`
 3. `TENDING_LIST.md`
 4. `CONSTRAINTS.md`
-5. `HUMAN_RISK_CHECK.md`
-6. `CHOOSING_AGENT_TOOLS.md`
-7. `AGENT_TOOL_BASICS.md`
-8. `NURSERY.md`
-9. `MEMORY_GUIDE.md`
-10. `PREFERENCES.md`
-11. `TASKS.md`
-12. `NOTES_TEMPLATE.md`
-13. `RESOURCES.md`
+5. `HUMAN_IN_THE_LOOP.md`
+6. `HUMAN_RISK_CHECK.md`
+7. `CHOOSING_AGENT_TOOLS.md`
+8. `AGENT_TOOL_BASICS.md`
+9. `NURSERY.md`
+10. `MEMORY_GUIDE.md`
+11. `PREFERENCES.md`
+12. `TASKS.md`
+13. `NOTES_TEMPLATE.md`
+14. `RESOURCES.md`
 
 ## For maintenance
 
@@ -46,7 +48,7 @@
 
 ## Core safety rule
 
-Ask before destructive, irreversible, or financial actions.
+Ask before destructive, irreversible, or financial actions. Treat careless approval as weak consent, not magic.
 
 ## Credit
 

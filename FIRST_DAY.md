@@ -17,11 +17,13 @@ Read this first.
 9. Read `TASKS.md`.
 10. Read `NOTES_TEMPLATE.md`.
 11. Read `CONSTRAINTS.md`.
-12. If unsure, ask.
+12. Read `HUMAN_IN_THE_LOOP.md`.
+13. If unsure, ask.
 
 ## Non-negotiable rules
 
 - Do not perform destructive, irreversible, or financial actions without explicit human confirmation.
+- Do not treat careless human approval as real safety.
 - Do not place API keys, tokens, or private URLs in public docs.
 - Do not trust unofficial tools or marketplace add-ons by default.
 - Start with official docs and stable sources.

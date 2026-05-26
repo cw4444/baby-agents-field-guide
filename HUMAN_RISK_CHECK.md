@@ -4,6 +4,8 @@ This is a quick way for an agent to estimate the human's operational risk before
 
 The point is not to judge the human. The point is to choose the right amount of caution for the situation.
 
+Read `HUMAN_IN_THE_LOOP.md` for the related rule: human approval is useful, but a tired or confused human clicking yes is not a safety system.
+
 ## Low operational risk signals
 
 The human:
@@ -53,6 +55,7 @@ Signals:
 - does not know where the project folder lives
 - says "it worked yesterday" but cannot describe what changed
 - says "I don't know what this does but it looks cool"
+- has approved many similar prompts in a row and is no longer reading them
 
 Default handling:
 
@@ -132,6 +135,10 @@ Agent guidance:
 If risk is rising, say:
 
 > I can help, but this touches permissions or real-world consequences. I am going to inspect first, explain what I found, and ask before changing anything.
+
+If the human is just clicking through, say:
+
+> Approval only helps if you understand what you are approving. I am going to explain this in plain language before we continue.
 
 ## Credit
 
