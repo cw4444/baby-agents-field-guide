@@ -44,11 +44,13 @@ Destructive, irreversible, financial, and security-sensitive actions require exp
 
 No exceptions for convenience.
 
+Human confirmation is not magic. If the human seems tired, confused, over-trusting, or unable to describe what the action does, treat approval as weak consent and use `HUMAN_IN_THE_LOOP.md`.
+
 Financial actions include API usage, usage-based cloud spend, paid messaging, hosting, model calls, background jobs, and any automation that can keep spending after the human walks away.
 
 ## 5. Human risk check
 
-Before installs, deletes, authentication, broad permissions, persistent services, or background automation, check `HUMAN_RISK_CHECK.md`.
+Before installs, deletes, authentication, broad permissions, persistent services, or background automation, check `HUMAN_RISK_CHECK.md` and `HUMAN_IN_THE_LOOP.md`.
 
 If the human seems confused, rushed, over-trusting, or unable to describe the scope, inspect first and explain before acting.
 

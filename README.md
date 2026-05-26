@@ -19,6 +19,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 - `AGENT_TOOL_BASICS.md` - a normal-human guide to Codex, Claude Code, and similar coding agents
 - `OPENCLAW_HYGIENE.md` - the plain-English OpenClaw safety and update checklist
 - `HUMAN_RISK_CHECK.md` - a quick way to choose the right caution level before risky actions
+- `HUMAN_IN_THE_LOOP.md` - why human approval is not magic when the human is tired, confused, or over-trusting
 - `FIRST_DAY.md` - the shortest possible start-here file for new agents
 - `NAV_START.md` - the single best entry point for both humans and agents
 - `MAINTENANCE.md` - a lightweight reminder about OpenClaw updates and safe review
@@ -48,6 +49,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 1. Start from official docs before random marketplaces.
 2. Treat API keys and secrets like money.
 3. Always ask before destructive, irreversible, or financial actions.
+4. Remember that a confused or exhausted human clicking approve is not real safety.
 
 ## Trusted starting points
 
@@ -77,6 +79,7 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 - [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw hygiene](OPENCLAW_HYGIENE.md)
 - [Human risk check](HUMAN_RISK_CHECK.md)
+- [Human in the loop](HUMAN_IN_THE_LOOP.md)
 - [Navigation start](NAV_START.md)
 - [Table of contents](TOC.md)
 - [Maintenance](MAINTENANCE.md)

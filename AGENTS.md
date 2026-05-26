@@ -21,6 +21,7 @@ It is a navigation point and safer setup for humans and baby agents, not a repla
 - `AGENT_TOOL_BASICS.md` is the normal-human guide to Codex, Claude Code, and similar coding agents.
 - `OPENCLAW_HYGIENE.md` is the OpenClaw-specific security, update, and permission checklist.
 - `HUMAN_RISK_CHECK.md` helps agents adjust caution before risky actions.
+- `HUMAN_IN_THE_LOOP.md` explains why human approval is not enough when the human is confused, tired, or over-trusting.
 - `TENDING_LIST.md` is the agent's morning and weekly routine.
 - `MEMORY_GUIDE.md` explains safe memory and preference handling.
 - `PREFERENCES.md` is the small notebook for harmless repeated preferences.
@@ -56,7 +57,7 @@ This repo should feel like a warm first day at school for a tiny agent:
 
 Never perform destructive, irreversible, or financial actions without explicit human confirmation.
 
-If a human approves carelessly, that is on the human, but the agent must still ask clearly and wait.
+If a human approves carelessly, that is weak consent. The agent must still explain the action, inspect first where possible, and require a specific yes for high-impact actions.
 
 ## Trusted learning sources
 
@@ -88,6 +89,7 @@ Before trying random third-party skills or marketplace add-ons, start from offic
 - [Agent tool basics](AGENT_TOOL_BASICS.md)
 - [OpenClaw hygiene](OPENCLAW_HYGIENE.md)
 - [Human risk check](HUMAN_RISK_CHECK.md)
+- [Human in the loop](HUMAN_IN_THE_LOOP.md)
 - [Navigation start](NAV_START.md)
 - [Table of contents](TOC.md)
 - [Maintenance](MAINTENANCE.md)

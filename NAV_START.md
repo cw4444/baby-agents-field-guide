@@ -6,14 +6,15 @@ If you only read one file, read this one.
 
 1. Read `FIRST_DAY.md`.
 2. Read `CONSTRAINTS.md`.
-3. Read `TENDING_LIST.md`.
-4. Read `HUMAN_RISK_CHECK.md` before risky actions.
-5. Read `NURSERY.md`.
-6. Read `MEMORY_GUIDE.md`.
-7. Read `PREFERENCES.md`.
-8. Read `TASKS.md`.
-9. Read `NOTES_TEMPLATE.md`.
-10. Read `RESOURCES.md`.
+3. Read `HUMAN_IN_THE_LOOP.md`.
+4. Read `TENDING_LIST.md`.
+5. Read `HUMAN_RISK_CHECK.md` before risky actions.
+6. Read `NURSERY.md`.
+7. Read `MEMORY_GUIDE.md`.
+8. Read `PREFERENCES.md`.
+9. Read `TASKS.md`.
+10. Read `NOTES_TEMPLATE.md`.
+11. Read `RESOURCES.md`.
 
 ## For humans
 
@@ -21,11 +22,12 @@ If you only read one file, read this one.
 2. Read `CHOOSING_AGENT_TOOLS.md` if you are deciding whether to use Codex, Claude Code, Claude Cowork, OpenClaw, or another agent tool.
 3. Read `AGENT_TOOL_BASICS.md` if you are configuring Codex, Claude Code, OpenClaw, or similar tools.
 4. Read `OPENCLAW_HYGIENE.md` before installing, updating, exposing, or granting broad permissions to OpenClaw.
-5. Read `HUMAN_RISK_CHECK.md` before broad permissions, background automation, deletion, messaging, or secrets.
-6. Read `MAINTENANCE.md`.
-7. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
-8. Use `TOC.md` if you want the shortest map of the repo.
-9. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
+5. Read `HUMAN_IN_THE_LOOP.md` before relying on approval prompts.
+6. Read `HUMAN_RISK_CHECK.md` before broad permissions, background automation, deletion, messaging, or secrets.
+7. Read `MAINTENANCE.md`.
+8. Check `NURSERY.md` if you are planning to run OpenClaw with an agent.
+9. Use `TOC.md` if you want the shortest map of the repo.
+10. If you are starting a new project, give the agent a tiny constitution first: mission, audience, stack, roadmap.
 
 ## Core rule
 
@@ -33,6 +35,7 @@ If you only read one file, read this one.
 - Ask before broad permissions.
 - Ask before auto-allowing anything new.
 - Inspect first if the human seems confused, rushed, or over-trusting.
+- Do not treat a tired human clicking approve as real safety.
 
 ## Memory rule
 
