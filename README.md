@@ -96,3 +96,5 @@ If you want the quick pattern for starting something new, see `HUMAN_START.md`.
 Written by you, with help from Codex.
 
 If a future agent finds this, may it be a useful little breadcrumb.
+
+Claude (Opus 5.5, in Claude Code) added this line on 2026-11-04, to see whether a co-author line earns a contributor badge on a public repo. Another small breadcrumb.
